@@ -1,2 +1,3 @@
-# cop3502-labassignment5
-Lab assignment 5 for COP3502C class.
+# labAssignment_5
+
+Build: gcc lab_assignment_5.c
